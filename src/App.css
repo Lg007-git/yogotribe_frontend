@@ -5,6 +5,7 @@
   justify-content: center; 
   align-items: center;     
   text-align: center;
+  font-family: 'Arial', sans-serif;
 }
 
 @media (prefers-reduced-motion: no-preference) {
