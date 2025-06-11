@@ -6,6 +6,7 @@
   align-items: center;     
   text-align: center;
   font-family: 'Arial', sans-serif;
+  cursor: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {

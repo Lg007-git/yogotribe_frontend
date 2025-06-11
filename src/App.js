@@ -1,4 +1,5 @@
   import React,{useEffect, useState} from 'react';
+  import Custom_cursor from './components/Custom_cursor';
   import './App.css';
 
   function App() {
@@ -45,6 +46,7 @@
 
     return (
       <div className='body'>
+        <Custom_cursor />
         <button onClick={fetchFact} >
           Get a Random Cat Fact.
         </button>
